@@ -12,7 +12,22 @@ Requisitos
 Despues de descargar el proyecto
 
 - Al abrir el proyecto con VSCode realizar el proceso de abrir container ("Reopen in Container")
-- Abrir un terminal en VSCode y ejecutar yarn install
-- Luego ejecutar gatsby develop -H 0.0.0.0
+
+- Abrir un terminal en VSCode y ejecutar 
+
+  ```
+  yarn install
+  ```
+
+  
+
+- Luego ejecutar 
+
+  ```
+  gatsby develop -H 0.0.0.0
+  ```
+
+  
+
 - Abrir en el navegador http://localhost:3000
 
