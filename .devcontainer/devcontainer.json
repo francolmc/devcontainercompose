@@ -1,0 +1,10 @@
+{
+    "name": "Ejemplo devcontainer docker-compose",
+    "dockerComposeFile": "./docker-compose.yaml",
+    "service": "app",
+    "workspaceFolder": "/home/node/app",
+    "shutdownAction": "stopCompose",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    }
+}
